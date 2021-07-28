@@ -1,0 +1,88 @@
+
+.image{
+   
+    height: 30px;
+padding-left:  40%;
+padding-top:  10%;
+
+}
+
+input{
+margin-left: 33%;
+margin-top: 7%;
+width: 550px;
+border-radius: 40px;
+height: 25px;
+
+
+}
+
+.blue{
+padding-left: 85%;
+margin-top: 30px;
+}
+
+.purple{
+    padding-right: 10px;
+    text-decoration: none;
+    color: black;
+    padding-bottom: 30px;
+}
+
+
+.red{
+
+    text-decoration: none;
+    color: black;
+}
+
+
+a:hover{
+
+    text-decoration: underline;
+}
+
+.baloon{
+    height: 20px;
+    width: 15px;
+    padding-top: 1%;
+    padding-left: 15px;
+}
+
+.baloon2{
+
+    width: 35px;
+    height: 35px;
+    border-radius: 40px;
+    
+
+}
+
+
+.button{
+padding-left:  43%;
+padding-top:  20px;
+
+}
+
+.button1{
+    height: 30px;
+    width: 120px;
+    background-color: grey;
+}
+
+.new{
+
+    padding-left: 40%;
+    padding-top:  50px;
+    color: black;
+    
+}
+
+.new1{
+
+    text-decoration: none;
+    color: blue;
+}
+
+    

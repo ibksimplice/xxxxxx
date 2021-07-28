@@ -1,0 +1,94 @@
+body{
+    display: flex;
+    background-color: black;
+}
+
+
+.blue{
+    background-color: white;
+    height: 450px;
+    margin-top: 8%;
+    width: 450px;
+    margin-left: 24%;
+    padding-right: 5%;
+    /* padding-left: 1%; */
+    
+}
+
+.red{
+    display: flex;
+    
+}
+
+.logo{
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.image{
+    width: 30px;
+    height: 30px;
+}
+
+.logo2{
+    margin-top: 1%;
+    margin-left: 1%;
+    
+}
+
+.header1{
+    font-size: small;
+}
+
+.header2{
+    font-size: small;
+    margin-top:-29%;
+    
+}
+
+.club{
+    margin-top: 3%;
+    font-size: 43px;
+    color: rgb(180, 45, 45);
+    margin-left: 15%;
+}
+
+.clubb{
+    margin-left: 15%;
+    font-size: 43px;
+    margin-top:  -9%;
+}
+
+.clubbb{
+    margin-left: 15%;
+    font-size: 43px;
+    margin-top:  -8%;
+}
+
+.para{
+    margin-left: 15%;
+    margin-top: -4%;
+}
+
+.input{
+    margin-left: 15%;
+    margin-top: 5%;
+    width: 320px;
+    height: 40px;
+    border-radius: 30px;
+    background-image: url(../images/arrow.jpg);
+    background-position:right;
+    
+    background-size: 100px;
+    background-repeat: no-repeat;
+    
+}
+
+.purple{
+    background-image: url(../images/kimk.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+    margin-top: 8%;
+    width: 400px;
+}
